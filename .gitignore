@@ -1,0 +1,33 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Кеши и временные данные
+cache/
+__pycache__/
+*.py[cod]
+
+# Файлы данных
+# data/raw/
+# data/processed/
+
+# Jupyter Notebook Checkpoints
+**/.ipynb_checkpoints
+
+# Файлы окружения
+.env
+*.env
+
+# Логи
+*.log
+
+# Output (если появится)
+output/
+reports/
+
+# OS-specific
+*.swp
+*.swo
