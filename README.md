@@ -36,14 +36,13 @@
   • Итоговый размер: **12 585 точек × 24 признака**  
   • Баланс классов: **14,2% положительных и 85,8% отрицательных**  
 
-
-
 - [ ] **Обучение модели (ML)**  
- - Построение и обучение базовых и ансамблевых моделей:
-  - Logistic Regression 
-  - Decision Tree 
-  - Random Forest
-  - Gradient Boosting 
+  • Построение и обучение базовых и ансамблевых моделей:  
+    - Logistic Regression  
+    - Decision Tree  
+    - Random Forest  
+    - Gradient Boosting (CatBoost)  
+ 
 
 ---
 
