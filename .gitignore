@@ -17,6 +17,9 @@ __pycache__/
 # Jupyter Notebook Checkpoints
 **/.ipynb_checkpoints
 
+# CatBoost
+catboost_info/
+
 # Файлы окружения
 .env
 *.env
@@ -24,7 +27,7 @@ __pycache__/
 # Логи
 *.log
 
-# Output (если появится)
+# Output 
 output/
 reports/
 
