@@ -9,6 +9,9 @@ Thumbs.db
 cache/
 __pycache__/
 *.py[cod]
+~$*
+*.tmp
+*.temp
 
 # Файлы данных
 # data/raw/
